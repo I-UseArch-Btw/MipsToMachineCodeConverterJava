@@ -15,6 +15,8 @@ The start Address of the program is 0x00400000
 For example, consider the following source code:
 
 ![image](https://github.com/user-attachments/assets/8d0739a8-138e-4ef4-b01d-34b22aa40abe)
+
 GUI-based program should be something as follows:
+
 ![image](https://github.com/user-attachments/assets/d2373a5c-6983-4881-9d39-7381076ce571)
 
